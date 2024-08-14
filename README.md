@@ -1,5 +1,5 @@
 # JoelAKruger.github.io
 
-##Heading
+## Heading
 Electrical and Computer Systems Engineering
 A B C
