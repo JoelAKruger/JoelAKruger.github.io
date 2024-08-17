@@ -6,22 +6,22 @@ I am studying Electrical and Computer Systems Engineering at Monash University. 
 Strategy / Tower Defense game with multiplayer written for Windows and DirectX 11.
 Randomly generated map.
 
-![Game Image](tdscreenshot.png)
+![Game Image](images/tdscreenshot.png)
 [Tower Defence Game](https://github.com/JoelAKruger/Tower-Defense)
 
 ## x86 Operating System
 Multithreading operating system for x86, written in C++ and Assembly. Allows the running of user programs and implements various system calls. Supports PS2 keyboard and mouse, and outputs to a bitmap display device. It is able to boot on real hardware.
 
 Running cat and echo from the command line interface
-![OS Command Line](oscmd.png)
+![OS Command Line](images/oscmd.png)
 
 Basic graphical user interface
-![OS GUI](osgui.png)
+![OS GUI](images/osgui.png)
 
 ## 2D Game Written in C++
 Fighting game written in C++ using SDL2, which can compile to WebAssembly and run in a web browser.
-![2D Game](mscreenshot.png)
-
+![2D Game](images/mscreenshot.png)
+[2D Game](https://github.com/JoelAKruger/Margarita)
 # Contact
 Email: joelkruger@optusnet.com.au
 LinkedIn: https://www.linkedin.com/in/joel-a-kruger
