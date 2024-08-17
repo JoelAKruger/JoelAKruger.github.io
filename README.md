@@ -1,5 +1,5 @@
 # About Me
-I am studying Electrical and Computer Systems Engineering at Monash University. My main interests are low-level systems programming, operating systems and computer architecture and performance optimisation. I am passionate about how operating systems and applications interact with modern hardware, and enjoy exploring the intricacies of systems programming and optimisation.
+I am studying Electrical and Computer Systems Engineering at Monash University. My main interests are low-level systems programming, operating systems and computer architecture and performance optimisation. I am interested in how operating systems and applications interact with hardware, and enjoy the challenges of systems programming and optimisation.
 
 # Projects
 ## 3D Game with Custom Engine Written in C++ (in progress)
