@@ -4,7 +4,7 @@ I am studying Electrical and Computer Systems Engineering at Monash University. 
 # Projects
 ## 3D Game with Custom Engine Written in C++ (in progress)
 Strategy / Tower Defense game with multiplayer written for Windows and DirectX 11.
-Randomly generated map
+Randomly generated map.
 
 ![Game Image](tdscreenshot.png)
 [Tower Defence Game](https://github.com/JoelAKruger/Tower-Defense)
@@ -13,9 +13,14 @@ Randomly generated map
 Multithreading operating system for x86, written in C++ and Assembly. Allows the running of user programs and implements various system calls. Supports PS2 keyboard and mouse, and outputs to a bitmap display device. It is able to boot on real hardware.
 
 Running cat and echo from the command line interface
-![Game Image](oscmd.png)
+![OS Command Line](oscmd.png)
 
+Basic graphical user interface
+![OS GUI](osgui.png)
 
+## 2D Game Written in C++
+Fighting game written in C++ using SDL2, which can compile to WebAssembly and run in a web browser.
+![2D Game](mscreenshot.png)
 
 # Contact
 Email: joelkruger@optusnet.com.au
