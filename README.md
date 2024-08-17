@@ -23,5 +23,5 @@ Fighting game written in C++ using SDL2, which can compile to WebAssembly and ru
 ![2D Game](images/mscreenshot.png)
 [2D Game](https://github.com/JoelAKruger/Margarita)
 # Contact
-Email: joelkruger@optusnet.com.au
+Email: joelkruger@optusnet.com.au \
 LinkedIn: https://www.linkedin.com/in/joel-a-kruger
