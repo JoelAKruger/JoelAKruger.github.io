@@ -9,6 +9,12 @@ Randomly generated map.
 ![Game Image](images/tdscreenshot.png)
 [Github Repository](https://github.com/JoelAKruger/Tower-Defense)
 
+## AI Aim Assist
+Uses a custom trained Yolov8 model along with an arduino microcontroller to help the player aim at an enemy. This required a lot of optimisation to run in real time with low latency, such as doing image processing with DirectX and writing the program in C++ instead of Python.
+
+![Example of model](images/aim.png)
+[Github Repository](https://github.com/JoelAKruger/GetGood)
+
 ## x86 Operating System
 Multithreading operating system for x86, written in C++ and Assembly. Allows the running of user programs and implements various system calls. Supports PS2 keyboard and mouse, and outputs to a bitmap display device. It is able to boot on real hardware.
 
