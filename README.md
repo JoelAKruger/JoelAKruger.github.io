@@ -3,6 +3,7 @@ I am studying Electrical and Computer Systems Engineering at Monash University. 
 
 # Projects
 ## 3D Game with Custom Engine Written in C++ (in progress)
+C++, DirectX, HLSL\
 Strategy / Tower Defense game with multiplayer written for Windows and DirectX 11.
 Randomly generated map.
 
@@ -10,12 +11,14 @@ Randomly generated map.
 [Github Repository](https://github.com/JoelAKruger/Tower-Defense)
 
 ## AI Aim Assist
+C++, DirectX, OpenCV, Python, Arduino \
 Uses a custom trained Yolov8 model along with an arduino microcontroller to help the player aim at an enemy. This required a lot of optimisation to run in real time with low latency, such as doing image processing with DirectX and writing the program in C++ instead of Python.
 
 ![Example of model](images/aim.png)
 [Github Repository](https://github.com/JoelAKruger/GetGood)
 
 ## x86 Operating System
+C++, Assembly\
 Multithreading operating system for x86, written in C++ and Assembly. Allows the running of user programs and implements various system calls. Supports PS2 keyboard and mouse, and outputs to a bitmap display device. It is able to boot on real hardware.
 
 Running cat and echo from the command line interface \
@@ -25,6 +28,7 @@ Basic graphical user interface \
 ![OS GUI](images/osgui.png)
 
 ## 2D Game Written in C++
+C++, SDL2, Emscripten \
 Fighting game written in C++ using SDL2, which can compile to WebAssembly and run in a web browser.
 ![2D Game](images/mscreenshot.png)
 [Github Repository](https://github.com/JoelAKruger/Margarita)
