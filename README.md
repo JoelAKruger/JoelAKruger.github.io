@@ -1,4 +1,5 @@
 # About Me
+Software / Electrical Engineer\
 I am studying Electrical and Computer Systems Engineering at Monash University. My main interests are low-level systems programming, operating systems and computer architecture and performance optimisation. I am interested in how operating systems and applications interact with hardware, and enjoy the challenges of systems programming and optimisation.
 
 # Projects
