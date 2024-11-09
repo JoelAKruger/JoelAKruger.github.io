@@ -5,8 +5,14 @@ I am studying Electrical and Computer Systems Engineering at Monash University. 
 # Projects
 ## 3D Game with Custom Engine Written in C++ (in progress)
 C++, DirectX, HLSL\
-Strategy / Tower Defense game with multiplayer written for Windows and DirectX 11.
-Randomly generated map.
+Strategy / Tower Defense game with multiplayer
+
+### Features
+* Platform abstraction layer for the Windows API and DirectX 11
+* Custom memory allocation using memory arenas to replace malloc() and free()
+* Procedurally generated map
+* Performance profiling using CPU timestamp counters
+* Integrated developer console
 
 ![Game Image](images/tdscreenshot.png)
 [Github Repository](https://github.com/JoelAKruger/Tower-Defense)
