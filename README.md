@@ -17,12 +17,15 @@ Strategy / Tower Defense game with multiplayer
 ![Game Image](images/tdscreenshot.png)
 [Github Repository](https://github.com/JoelAKruger/Tower-Defense)
 
-## AI Aim Assist
-C++, DirectX, OpenCV, Python, Arduino \
-Uses a custom trained Yolov8 model along with an arduino microcontroller to help the player aim at an enemy. This required a lot of optimisation to run in real time with low latency, such as doing image processing with DirectX and writing the program in C++ instead of Python.
+## RISC-V CPU in Verilog
+SystemVerilog, C, Assembly
+### Features
+* Implements the RISC-V rv32i instruction set and can run C programs with a custom library for graphics and console output.
 
-![Example of model](images/aim.png)
-[Github Repository](https://github.com/JoelAKruger/GetGood)
+Drawing the mandelbrot set
+![Mandelbrot](images/cpu.png)
+[Github Repository](https://github.com/JoelAKruger/riscv-cpu)
+
 
 ## x86 Operating System
 C++, Assembly\
@@ -39,6 +42,14 @@ C++, SDL2, Emscripten \
 Fighting game written in C++ using SDL2, which can compile to WebAssembly and run in a web browser.
 ![2D Game](images/mscreenshot.png)
 [Github Repository](https://github.com/JoelAKruger/Margarita)
+
+## AI Aim Assist
+C++, DirectX, OpenCV, Python, Arduino \
+Uses a custom trained Yolov8 model along with an arduino microcontroller to help the player aim at an enemy. This required a lot of optimisation to run in real time with low latency, such as doing image processing with DirectX and writing the program in C++ instead of Python.
+
+![Example of model](images/aim.png)
+[Github Repository](https://github.com/JoelAKruger/GetGood)
+
 # Contact
 Email: joelkruger@optusnet.com.au \
 LinkedIn: https://www.linkedin.com/in/joel-a-kruger
